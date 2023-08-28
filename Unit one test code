@@ -1,0 +1,73 @@
+#wage = 20
+
+#print('Wage is', end=' ')
+#print(wage, end=' ')
+#print('Goodbye.')
+
+#print('This\n is\n epic') 
+
+#print('This is a string with "double quotes" inside.')
+#print("This is a string with 'single quotes' inside.")
+
+
+#name = input("Please enter your name: ")
+#age = input('How old are you?')
+#print('Hi', name, 'it is nice to meet you, I am also', age, "years old")
+
+#print('Enter name of best friend:', end=' ')
+#name = input()
+#print('Your best friend is named', name)
+
+#print('What state are you from:', end=' ')
+#state = input()
+#print("I have never been to", state, 'before')
+
+#state = input('What state are you from: ')
+#print('I have never been to', state, 'before!')
+
+#print("How many hours did you work this week: ", end=' ')
+#hours = int(input())
+#print("How many dollars do you get payed and hour: ", end=' ')
+#wage = int(input())
+#money_made = hours * wage
+#print('You made $', money_made, 'this week at work.')
+
+#hours = int(input("How many hours did you work this week: "))
+#print('You worked', hours, 'this week!')
+
+#print('   *')
+#print('  ***')
+#print(' *****')
+#print('*******')
+#print('  ***')
+
+#print('Hello World!')
+
+#name = input(" Enter bear's name: " )
+#print()
+#print() 
+#print('ʕ•ᴥ•ʔ')
+#print()
+#print(' My', name, 'bear likes honey.')
+
+#x = int(input('Enter x: '))
+#x_doubled = x * 2
+#print('x doubled is: ', x_doubled)
+
+#print('  NO PARKING')
+#print("2:00 - 6:00 a.m.")
+
+#name = input("What is your first name: ")
+#print('Hey', name)
+#print('Welcome to zyBooks!')
+
+#first_name = input("What is your first name: ")
+#whole_number = input("Give me a whole number: ")
+#plural_noun = input("Give me a plural noun: ") 
+#generic_location = input("Give me a generic location: ")
+
+#print(first_name, 'buys', whole_number, "different types of", plural_noun, 'at', generic_location)
+
+print('Step 1 complete')
+print('Step 2 as well')
+print('All steps now complete')
